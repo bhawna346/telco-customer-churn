@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,roc_auc
+Baseline (always 'stay'),0.735,0.0,0.0,0.0,0.5
+Logistic Regression,0.738,0.504,0.783,0.614,0.842
+Random Forest,0.76,0.533,0.781,0.633,0.843
